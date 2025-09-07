@@ -58,7 +58,7 @@ export const AboutHero: FunctionComponent = () => {
                 />
                 <Image
                   alt="hero img"
-                  src="/assets/experts.png"
+                  src="/assets/experts.jpg"
                   width={350}
                   height={250}
                   priority={true}
@@ -66,7 +66,7 @@ export const AboutHero: FunctionComponent = () => {
                 />
                 <Image
                   alt="hero img"
-                  src="/assets/experts.png"
+                  src="/assets/experts.jpg"
                   width={0}
                   height={0}
                   sizes="100vw"
