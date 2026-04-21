@@ -80,7 +80,7 @@ const Footer: FunctionComponent = () => {
           </div>
         </div>
         <div className="two">
-          <p>2023 Neostroph Services. All Rights Reserved</p>
+          <p>2023 Sahnoune Aya Services. All Rights Reserved</p>
           <div className="flat">
             <Link href={"#"}>
               <FooterLinkStyle color="var(--off-white, #F9F7F7)" hovercolor="#fff">
